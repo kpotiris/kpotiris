@@ -1,16 +1,21 @@
-## Hi there 👋
+👨‍💻 Embedded Systems Engineer | Hardware Whisperer | Code Meets Circuitry
+Hi, I'm Kostas, a passionate embedded engineer who thrives at the intersection of hardware and software. I specialize in designing robust, efficient, and scalable embedded systems that power real-world applications.
 
-<!--
-**kpotiris/kpotiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 What I Do
+🛠️ Develop firmware for microcontrollers (ARM-based architecture)
 
-Here are some ideas to get you started:
+📡 Integrate sensors, actuators, and communication protocols (UART, SPI, I2C, CAN, BLE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Design and debug PCBs using KiCad, Altium, and EasyEDA
+
+🧪 Optimize real-time systems for performance and reliability
+
+🧠 Tinker with RTOS, low-level drivers, and bare-metal programming
+
+🚀 Projects You'll Find Here
+Custom PCB designs with full schematics and BOMs
+
+Firmware for IoT devices and industrial controllers
+
+🌱 Always Learning
+I’m constantly exploring new architectures, improving my C/C++ chops, and diving into Rust for embedded. I believe in clean code, modular design, and sharing knowledge.
