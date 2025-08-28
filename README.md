@@ -28,9 +28,6 @@ I’m constantly exploring new architectures and refining my C/C++ skills. I bel
 
 ---
 
-<!-- Optionally add contact links or badges below -->
-<!--
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/konstantinos-potiris-627b13168/)
 - [GrabCad](https://grabcad.com/kostas.potiris-1)
--->
